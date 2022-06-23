@@ -1,0 +1,23 @@
+const data_unva_quarantine = ['Antigua and Barbuda',
+'Bhutan',
+'Burundi',
+'Cambodia',
+'Central African Republic',
+'Democratic Republic of the Congo',
+'Eritrea',
+'Libya',
+'Malawi',
+'Malaysia',
+'Malta',
+'Mauritius',
+'Montserrat',
+'Myanmar',
+'Niger',
+'Nigeria',
+'Qatar',
+'Saint Vincent and the Grenadines',
+'Sierra Leone',
+'South Sudan',
+'Togo'];
+
+export default data_unva_quarantine;
