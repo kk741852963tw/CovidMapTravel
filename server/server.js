@@ -1,6 +1,6 @@
 require("dotenv").config();
 const express = require("express");
-const port = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 const path = require("path");
 const axios = require("axios");
 const app = express();
@@ -22,5 +22,5 @@ app.get('/456', (req, res) => {
     .catch((err) => console.log('api fail', err));
 });
 
-app.listen(port);
-console.log(`Listening at http://localhost:${port}`);
+app.listen(PORT);
+console.log(`Listening at http://localhost:${PORT}`);
