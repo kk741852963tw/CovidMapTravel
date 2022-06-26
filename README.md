@@ -36,6 +36,10 @@ Once the project moves into development, the press release can be used as a touc
   <!-- > Describe how your product elegantly solves the problem. -->
   > Use two website external api to integrates all information.
 
+## Demo ##
+  <!-- > Describe how your product elegantly solves the problem. -->
+  > [![Watch the video](https://i.postimg.cc/mk4cyZkg/Covid-Map-Travel.png)](https://youtu.be/xFb7lx3oCZo)
+
 <!-- ## Quote from You ##
   > A quote from a spokesperson in your company. -->
 
